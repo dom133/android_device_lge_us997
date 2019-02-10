@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_us997.mk
+    $(LOCAL_DIR)/aosp_us997.mk
